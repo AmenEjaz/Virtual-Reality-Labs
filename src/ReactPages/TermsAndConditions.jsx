@@ -312,8 +312,8 @@ function TermsAndConditions() {
           </h2>
           <p className="text-[20px] mb-2 text-[#929292]">
             We reserve the right to modify these Terms at any time. When we make
-            material changes, we will update the "Last updated" date and, where
-            appropriate, notify you through the Service or by email. Your
+            material changes, we will update the &quot;Last updated date and,
+            where appropriate, notify you through the Service or by email. Your
             continued use of the Service after changes take effect constitutes
             your acceptance of the revised Terms.{" "}
           </p>

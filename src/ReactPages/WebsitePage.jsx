@@ -1,5 +1,5 @@
 import React from "react";
-// import WebNav from "../components/website-page/WebNav";
+import WebNav from "../components/website-page/WebNav";
 import About from "../components/website-page/About";
 import VirtualLab from "../components/website-page/VirtualLab";
 import StartProcedure from "../components/website-page/StartProcedure";
@@ -13,7 +13,7 @@ import Image from "next/image";
 function WebsitePage() {
   return (
     <div>
-      {/* <WebNav /> */}
+      <WebNav />
       <section id="home">
         <div className="w-360 h-171.25 bg-[linear-gradient(180deg,#0F766E_-1.9%,#000000_128.03%)] flex ">
           <div className="mt-29.75 h-33.75 pl-33.75">
